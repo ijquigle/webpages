@@ -10,8 +10,8 @@ p {
     property: value;
 }
 
-.class {
-    property: value;
+.border {
+    border: 5px solid #000000
 }
 
 #id {
