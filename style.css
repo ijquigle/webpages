@@ -17,3 +17,8 @@ p {
 #id {
     property:value;
 }
+
+* {
+background-color: #d69894
+font-family: Arial;
+}
